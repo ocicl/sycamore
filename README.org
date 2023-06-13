@@ -1,0 +1,10 @@
+* sycamore
+
+A fast, purely functional data structure library in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ndantam/sycamore.git   |
+| commit  | 3faa80a  |
+| systems | sycamore |
+|---------+-------------------------------------------|
+
