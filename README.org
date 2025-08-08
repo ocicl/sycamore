@@ -4,6 +4,6 @@ A fast, purely functional data structure library in Common Lisp.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/ndantam/sycamore.git |
-| commit  | 1c8a7ab                                     |
+| commit  | 0b50f6a                                     |
 | systems | sycamore                                    |
 |---------+---------------------------------------------|
